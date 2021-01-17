@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">multiscreen</string>
+    <string name="welcome_to_multi_screen_restaraunt">Welcome to multi screen restaraunt</string>
+    <string name="item_1">Item 1</string>
+    <string name="item_2">Item 2</string>
+    <string name="item3">Item3</string>
+    <string name="todo">TODO</string>
+</resources>
